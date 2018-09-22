@@ -1,0 +1,408 @@
+        @media (min-width:1024px) {
+            .banner_slide_box {
+                min-height: 140px;
+            }
+            .choose_list li {
+                min-height: 200px;
+            }
+            .deal_list li {
+                padding: 25px;
+            }
+            .choose_details {
+                margin-bottom: 2rem;
+            }
+            .svr_img {
+                min-height: 470px;
+            }
+            .footer_subscribe {
+                padding: 30px 0;
+            }
+            .subscribe-input-group input.form-control {
+                width: 100%;
+                max-width: 400px;
+            }
+            .f_phone_img {
+                margin-top: -10rem;
+            }
+            .app_information {
+                margin-top: 2rem;
+            }
+            .container_box_form {
+                padding: 40px;
+            }
+            .back_button {
+                margin: -20px 0 0 -20px;
+            }
+            .rech_list li a {
+                padding-top: 35px;
+            }
+            .rech_list {
+                padding: 0 15px;
+            }
+            .browser_plan_link {
+                position: absolute;
+                left: calc(100% + 12px);
+                top: 11px;
+            }
+            .container_mobile {
+                padding-top: 13vh;
+            }
+            .rech_content.d-flex.justify-content-center .container_mobile {
+                padding-top: 3em;
+            }
+            .train_details_list {
+                padding: 20px 30px;
+            }
+            .train_details_list .btn {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+            .theme_table thead tr th,
+            .theme_table tbody tr td {
+                padding: 15px 30px;
+            }
+            .container_flight {
+                padding-top: 2em;
+            }
+            .hotal_lists>li {
+                width: calc(33.333% - 20px);
+            }
+        }
+        
+        @media(min-width:768px) and (max-width:1025px) {
+            .banner_head h2 {
+                font-size: 28px;
+            }
+            .banner_head p {
+                font-size: 18px;
+            }
+            .deal_list li {
+                max-width: 126px;
+                padding: 10px;
+            }
+        }
+        
+        @media(min-width:1024px) and (max-width:1279px) {
+            .banner_head h2 {
+                font-size: 30px;
+            }
+        }
+        
+        @media (max-width:1440px) {
+            .menu ul li {
+                padding: 15px 5px;
+            }
+            .menu ul li a {
+                font-size: 12px;
+            }
+        }
+        
+        @media (max-width:1366px) {
+            .container-common {
+                max-width: 1280px;
+            }
+            .deal_list {
+                text-align: center;
+                justify-content: center;
+            }
+            .deal_icon img {
+                max-width: 45px;
+            }
+        }
+        
+        @media (max-width:1280px) {
+            .global-tab.nav.nav-tabs li a {
+                font-size: 12px;
+            }
+            .hotal_lists>li {
+                width: calc(33.333% - 20px);
+            }
+        }
+        
+        @media (max-width:1199px) {
+            .container-common {
+                max-width: 991px;
+            }
+            .top_user_info {
+                margin-left: 5px;
+            }
+            .top_user_info {
+                margin-left: 5px;
+                max-width: 190px;
+                min-width: auto;
+                margin-right: 22px;
+            }
+            .common_account_limit_style {
+                width: 100%;
+                float: none;
+            }
+        }
+        
+        @media (max-width: 1023px) {
+            body {
+                padding-top: 70px;
+            }
+            header {
+                min-height: 70px;
+            }
+            .banner-home {
+                min-height: 400px;
+            }
+            .footer_top {
+                padding: 2rem 0 0;
+            }
+            .booking_page table.table {
+                min-width: 1000px;
+            }
+            .h5 {
+                font-size: 1rem;
+            }
+            .container_mobile {
+                padding-top: 2rem;
+            }
+        }
+        
+        @media (max-width: 991px) {
+            body.loged header {
+                padding-right: 50px;
+            }
+            .mob-menu {
+                display: block;
+            }
+            .close-menu {
+                display: block;
+            }
+            .menu {
+                opacity: 0;
+                visibility: hidden;
+                backface-visibility: hidden;
+                position: fixed;
+                top: 0px;
+                right: 0px;
+                margin-right: -100%;
+                background: #fff;
+                padding-top: 50px;
+                width: 300px;
+                height: 100vh;
+                overflow: hidden;
+                overflow-y: auto;
+                z-index: 1;
+                transition: 400ms;
+            }
+            .menu ul li {
+                display: block;
+                padding: 15px 20px;
+                border-bottom: 1px solid #d8d8d8;
+            }
+            .menu ul li a {
+                color: #f60a0b;
+            }
+            .menu-slide {
+                margin-right: 0;
+                opacity: 1;
+                visibility: visible;
+                backface-visibility: visible;
+                transition: 400ms;
+                box-shadow: -2px 0 2px 0 rgba(0, 0, 0, 0.03);
+            }
+            .get_app_form>.input-group {
+                background: transparent;
+                border-radius: 0;
+                box-shadow: none;
+            }
+            .get_app_form .input-group-append {
+                margin: 10px auto 0;
+            }
+            .app_field h3 {
+                font-size: 1.2rem;
+            }
+            .app_field p {
+                font-size: 12px;
+                margin: 0;
+            }
+            .app_ico {
+                margin: 0;
+            }
+            .app_ico li a img {
+                max-width: 70px;
+            }
+            .btn-app {
+                height: 33px;
+            }
+            .f_phone_img {
+                margin-top: -3.5rem;
+            }
+            .customer_speak {
+                padding: 3rem 0 4rem;
+            }
+            .footmenu li a {
+                padding: 0 4px;
+            }
+            .p-5 {
+                padding: 1rem!important;
+            }
+            .devider_top {
+                position: relative;
+                padding-left: 0;
+                margin-left: 0;
+            }
+            .hotal_lists>li {
+                width: calc(50% - 20px);
+            }
+        }
+        
+        @media (max-width:767px) {
+            body {
+                padding-top: 60px;
+            }
+            body.loged header {
+                padding-right: 50px;
+            }
+            header {
+                min-height: 50px;
+                padding: 0px 50px 0px 8px;
+            }
+            .top_user_info {
+                width: 40px;
+                margin-left: 3px;
+                min-width: auto;
+                padding-left: 0;
+                margin-right: 0;
+            }
+            .tab-section-main {
+                padding: 0;
+            }
+            .head-user-name {
+                display: none;
+            }
+            .logo {
+                max-width: 50px;
+            }
+            .logo .mobile-logo {
+                width: 100%;
+                max-width: 35px;
+            }
+            .logo .mobile-logo {
+                display: block;
+                width: 35px;
+            }
+            .logo .desktop-logo {
+                display: none;
+            }
+            .banner-home {
+                padding: 0px 15px;
+                min-height: 550px;
+            }
+            .banner_head h2 {
+                font-size: 20px;
+            }
+            .banner_head p {
+                font-size: 14px;
+            }
+            .footer-content {
+                margin-top: 15px;
+            }
+            .form-box {
+                padding: 20px;
+            }
+            .f_phone_img {
+                opacity: 0.35;
+            }
+            .subscribe-input-group label {
+                width: 100%;
+            }
+            .wallet-blance img {
+                margin: 0px 5px 0 0;
+            }
+            .wallet-blance.devider_top:before {
+                content: none;
+            }
+            .custom_tab_content .form-inline .mr-3 {
+                margin-right: 0!important;
+                width: 100%;
+            }
+            .payment-tab .tab-content .tab-pane {
+                padding: 10px;
+            }
+            .container_mobile.booking_page {
+                padding: 0;
+            }
+            section.form_control {
+                padding: 12px;
+            }
+            .payment-top-block h5 {
+                font-size: 16px;
+                margin: 5px 0px 0
+            }
+            .wallet-block {
+                margin: 0 auto 5px;
+            }
+            .payment-inner {
+                min-height: auto;
+            }
+            .payment-top-block {
+                padding: 15px;
+            }
+            .hotal_lists>li {
+                width: calc(50% - 20px);
+            }
+            .profile_s_details {
+                max-width: 175px;
+            }
+            .profile_s_details h4,
+            .pro_odr_list li a {
+                font-size: 1rem;
+                color: #333;
+            }
+        }
+        
+        @media (max-width:640px) {
+            .footer-inner .footer-text,
+            .footer-inner .socialList {
+                text-align: center;
+            }
+            .payment-tab .nav-justified .nav-item {
+                width: 100%;
+                flex-basis: auto;
+            }
+            .custom_group.form-group .form-control {
+                width: 100%;
+            }
+            .history_link a {
+                font-size: 11px;
+                line-height: 1;
+            }
+            .booking_head .h5 {
+                font-size: 12px;
+            }
+            .booking_head .h5 a {
+                max-width: 20px;
+            }
+            .welcom_person {
+                display: none;
+            }
+        }
+        
+        @media (max-width:576px) {
+            .banner-home {
+                min-height: 300px;
+                padding: 20px 0px;
+            }
+            .flied_grop .max-WT-110 {
+                max-width: 90px!important;
+            }
+            button.btn.max-WT-140 {
+                max-width: 90px!important;
+            }
+            .modal-dialog {
+                margin: 0;
+                padding: 10px;
+            }
+            .hotal_lists>li {
+                width: 100%;
+            }
+        }
+        
+        @media (max-width:480px) {}
+        
+        @media (max-width:360px) {}
